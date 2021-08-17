@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Wang"
+title                    : "Yu Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Yu Wang"
 description              : &description "personal description"
