@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Wang's Homepage"
+title                    : "Yu Wang"
 title_separator          : "-"
 name                     : &name "Yu Wang"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu Wang"
-  avatar           : "profile.png"
+  name             : "Yu Wang (王禹)"
+  avatar           : "2.png"
   bio              : "Master of Computer Science"
   location         : "Changchun"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Orpheusown"
+  github           : "Orpheusown"
   google_plus      :
   keybase          :
   instagram        :
